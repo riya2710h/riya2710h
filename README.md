@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @riya2710h
-- 👀 I’m interested in ... data science
+- 👋 Hi, I’m @riya_sharma
+- 👀 I’m interested in ... data analysis
 - 🌱 I’m currently learning ..python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...riya.2710h@gmail.com
